@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack developer<br>My deck stacks are python, Django, nextjs, java , GitHub, <br>Currently working on a management system program using Django<br>
+Hi, I'm Keshwrdl,<br> I'm a passionate full stack developer interested in learning new teck stacks and frameworks<br>My teck stacks are python, Django, nextjs, java , GitHub, <br>Currently working on a management system program using Django<br>
 
 
 ## 🌐 Socials:
